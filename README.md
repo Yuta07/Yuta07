@@ -4,4 +4,4 @@ I'm Yutaka Miyazaki, Frontend developer living in Kanagawa from 🏯 Aichi, Japa
 
 See the portfolio for details. 🌸
 
-[yutaaaaa.vercel.app](https://yutaaaaa.vercel.app/)
+[yutaaaaa.vercel.app](https://yutaaaaa.vercel.app/resume)
